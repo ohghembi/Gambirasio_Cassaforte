@@ -1,0 +1,16 @@
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.Form1.resources
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.csproj.GenerateResource.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.AssemblyInfoInputs.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.AssemblyInfo.cs
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\bin\Debug\net6.0-windows\Gambirasio_Cassaforte.exe
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\bin\Debug\net6.0-windows\Gambirasio_Cassaforte.deps.json
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\bin\Debug\net6.0-windows\Gambirasio_Cassaforte.runtimeconfig.json
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\bin\Debug\net6.0-windows\Gambirasio_Cassaforte.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\bin\Debug\net6.0-windows\Gambirasio_Cassaforte.pdb
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\refint\Gambirasio_Cassaforte.dll
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.pdb
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\Gambirasio_Cassaforte.genruntimeconfig.cache
+C:\Users\gambirasio.21194\Desktop\OhGhembi\Gambirasio_Cassaforte\Gambirasio_Cassaforte\obj\Debug\net6.0-windows\ref\Gambirasio_Cassaforte.dll

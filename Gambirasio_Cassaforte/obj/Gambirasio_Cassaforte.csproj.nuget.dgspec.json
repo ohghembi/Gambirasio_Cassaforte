@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj": {}
+    "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj": {
+    "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj",
+        "projectUniqueName": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj",
         "projectName": "Gambirasio_Cassaforte",
-        "projectPath": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj",
+        "projectPath": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte.csproj",
         "packagesPath": "C:\\Users\\gambirasio.21194\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\obj\\",
+        "outputPath": "C:\\Users\\gambirasio.21194\\Desktop\\OhGhembi\\Gambirasio_Cassaforte\\Gambirasio_Cassaforte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
