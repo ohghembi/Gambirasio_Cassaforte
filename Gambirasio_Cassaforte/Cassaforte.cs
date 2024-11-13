@@ -9,10 +9,10 @@ namespace Gambirasio_Cassaforte
     internal class Cassaforte
     {
         private int numeroMatricola;
-        private int pin;
+        private int pin = 0;
         private string produttore;
         private string modello;
-        private char stato = 'C';
+        private char stato = 'A';
         private int tentativi;
         private string codiceDiSblocco;
 
@@ -34,13 +34,18 @@ namespace Gambirasio_Cassaforte
 
         public void Imposta(int nuovoPin)
         {
-            if(nuovoPin.ToString().Length != 5) return;
+            if (nuovoPin.ToString().Length != 5)
+            {
+                MessageBox.Show("Il pin inserito non è valido");
+                return;
+            }
+            if (Stato != 'A') return;
             Pin = nuovoPin;
         }
 
         public void Apri(int tentativo)
         {
-            while(Tentativi < 6 || tentativo != Pin) 
+            if(Tentativi < 4) 
             {
                 Tentativi++;
                 if (stato == 'B') return;
@@ -54,14 +59,21 @@ namespace Gambirasio_Cassaforte
                 {
                     Stato = 'A'; 
                     Tentativi = 0;
+                    return;
                 }
             }
+            else Stato = 'B';
             
         }
 
         public void Chiudi()
         {
             if (Stato == 'C') return;
+            if (Pin == 0)
+            {
+                MessageBox.Show("Imposta prima un pin!");
+                return;
+            }
             Stato = 'C';
         }
 
@@ -74,10 +86,6 @@ namespace Gambirasio_Cassaforte
             Tentativi = 0;
 
         }
-
-
-            
-
         
     }
 }
