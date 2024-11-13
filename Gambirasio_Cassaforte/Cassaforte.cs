@@ -68,7 +68,7 @@ namespace Gambirasio_Cassaforte
 
         public void Chiudi()
         {
-            if (Stato == 'C') return;
+            if (Stato != 'A') return;
             if (Pin == 0)
             {
                 MessageBox.Show("Imposta prima un pin!");

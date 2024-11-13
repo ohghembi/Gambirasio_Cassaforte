@@ -19,7 +19,6 @@ namespace Gambirasio_Cassaforte
         {
             cassaforte1.Imposta((int)PIN.Value);
             Imposta.Enabled = false;
-
         }
 
         private void Chiudi_Click(object sender, EventArgs e)
@@ -32,6 +31,11 @@ namespace Gambirasio_Cassaforte
         {
             cassaforte1.Sblocca(CodiceDiSblocco.Text);
             Cassaforte.Text = cassaforte1.Stato.ToString();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
